@@ -1,0 +1,3 @@
+id,first_name,last_name,address1,address2,sub_district,district,province,postal_code,phone_number,created_at,updated_at,user_id
+40ad6c52-2846-4323-9dea-4d0e0909119a,Boks,dsfgtsad,dsafgsadg,gfsdagsfd,"สะพานสูง   ","เขตสะพานสูง   ","กรุงเทพมหานคร   ",10240,58045545,"2021-10-29 07:06:05","2021-10-29 07:06:05",01f88a83-0356-4f44-94b0-bf13aafeda62
+6a4a72fd-a67b-49c6-bdf1-8ac5702ba155,Chanwit,Pan,"567 Thanurat Road",Thungwatdon,"ทุ่งวัดดอน   ","เขตสาทร   ","กรุงเทพมหานคร   ",10120,0896977689,"2021-10-29 03:20:19","2021-10-29 03:20:19",9bb34f23-a54a-4ce5-b53b-b1cdacdbd12e
